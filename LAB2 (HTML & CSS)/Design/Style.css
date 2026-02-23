@@ -25,14 +25,15 @@ label{
     font-style: normal;
 }
 
-#email, #StudentName, #StudentCGPA, #StudentId{
+#email, #Phone , #StudentName, #StudentCGPA, #StudentId{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    border: 2px solid gray;
-    border-radius: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
     background-color: rgb(255, 255, 255);
     margin: 0px;
     padding: 10px;
+    width: 70%;
 }
 
 
