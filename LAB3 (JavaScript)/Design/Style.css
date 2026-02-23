@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(85, 47, 47);
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    color:rgb(255, 255, 241);
+    font-style: normal;
+    text-align: center; 
+}
+form{
+    width: 700px;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: black;
+    font-style: normal;
+}
+
+#email, #Phone , #StudentName, #StudentCGPA, #StudentId{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 10px;
+    width: 70%;
+}
+
+
+
+
