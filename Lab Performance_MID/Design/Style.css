@@ -1,0 +1,37 @@
+body{
+    font-family: Arial;
+    background-color: #f0f0f0;
+}
+
+.container{
+    width: 350px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border-top: #ffffff;
+    
+}
+
+h2{
+    text-align: center;
+    margin-top: -36px;
+    margin-bottom: 30px;
+   
+}
+
+label{
+    
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input{
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
